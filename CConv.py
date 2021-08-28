@@ -1,4 +1,7 @@
+
 # Name - Parth Shastri 
+# Convolution script
+
 import numpy as np
 
 x = [1, 2, 3, 4]

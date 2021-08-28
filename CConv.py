@@ -1,3 +1,5 @@
+
+# Name - Parth Shastri 
 # Convolution script
 
 import numpy as np
